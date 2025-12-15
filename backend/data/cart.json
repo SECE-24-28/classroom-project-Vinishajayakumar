@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Mobile",
+    "price": 15000,
+    "stock": 10,
+    "image": "https://via.placeholder.com/150",
+    "description": "A great mobile phone with latest features."
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": 55000,
+    "stock": 5,
+    "image": "https://via.placeholder.com/150",
+    "description": "Powerful laptop for work and gaming."
+  }
+]

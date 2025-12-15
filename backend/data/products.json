@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Mobile", "price": 15000, "stock": 10, "image": "https://via.placeholder.com/150", "description": "A great mobile phone with latest features." },
+  { "id": 2, "name": "Laptop", "price": 55000, "stock": 5, "image": "https://via.placeholder.com/150", "description": "Powerful laptop for work and gaming." },
+  { "id": 3, "name": "Headphones", "price": 2000, "stock": 20, "image": "https://via.placeholder.com/150", "description": "Noise-cancelling headphones for immersive sound." },
+  { "id": 4, "name": "Tablet", "price": 25000, "stock": 8, "image": "https://via.placeholder.com/150", "description": "Versatile tablet for entertainment and productivity." },
+  { "id": 5, "name": "Smartwatch", "price": 8000, "stock": 15, "image": "https://via.placeholder.com/150", "description": "Stay connected with this smartwatch." }
+]
