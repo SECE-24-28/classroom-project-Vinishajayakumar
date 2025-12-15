@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce Website
 
 A full-stack React e-commerce website with home, products, cart, and contact pages, backed by Node.js Express API.
@@ -28,3 +29,6 @@ A full-stack React e-commerce website with home, products, cart, and contact pag
 - POST http://localhost:5003/api/orders: Place an order
 - GET http://localhost:5003/api/orders: Get all orders
 - POST http://localhost:5003/api/contact: Send contact message
+=======
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21908533&assignment_repo_type=AssignmentRepo)
+>>>>>>> f5ed2eaee851d0f6a84c8e71e0d8b89b4b6e3e9e
